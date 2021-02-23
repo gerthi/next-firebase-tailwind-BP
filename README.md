@@ -37,7 +37,7 @@ Two fonts are included in the `package.json` to avoid loading from Google's serv
 - Paragraphs : Lato
 
 ## How to use it ?
----
+
 - Clone the project with git clone 
 - Install packages with `yarn install`
 - Create [Firebase](https://console.firebase.google.com/?pli=1) project
